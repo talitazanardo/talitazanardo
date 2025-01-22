@@ -1,4 +1,4 @@
-# ʕ•́ᴥ•̀ʔっ hellou!# 
+# ʕ•́ᴥ•̀ʔっ Oiiie, abaixo conto um pouquinho sobre mim  
 
 
 📌 Profissional com ampla experiência em administração, otimização e escalabilidade de bancos de dados em ambientes críticos e de alta disponibilidade. Com paixão por Cloud & Data, atuo constantemente em projetos envolvendo PostgreSQL, SQL Server, MySQL, além de orquestração e automação com Kubernetes e IaC.
