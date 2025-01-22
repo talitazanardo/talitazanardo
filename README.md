@@ -28,7 +28,7 @@ Me dedico a aprimorar a observabilidade, desempenho e segurança de ambientes co
 - **Datadog**
 - **New Relic**
 
----
+
  _“I ❤ Cloud & Data”_
 
 ---
